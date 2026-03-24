@@ -1,9 +1,9 @@
-const cacheName = "ZeroZeroGames-CardsAii-v.01.24.03.2026.10:07";
+const cacheName = "ZeroZeroGames-CardsAii-v.01.24.03.2026.10:25";
 const contentToCache = [
     "Build/96d617c1ba708fbcdd958ab8c14fbf99.loader.js",
-    "Build/14c92c4f964d21c5b3df6db8139e2ea7.framework.js.br",
-    "Build/2c0001564a1831679eb763fd9e57800b.data.br",
-    "Build/5dff023966868a768936b03a92a0921f.wasm.br",
+    "Build/14c92c4f964d21c5b3df6db8139e2ea7.framework.js",
+    "Build/6ca1bb43091f24c5ce0e82afbd9a5321.data",
+    "Build/5dff023966868a768936b03a92a0921f.wasm",
     "TemplateData/style.css"
 
 ];
